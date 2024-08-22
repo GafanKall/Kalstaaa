@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Frontend and Design**
 
 - 📫 How to reach me **gafankall@gmail.com**
 

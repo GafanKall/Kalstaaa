@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalstaaa&label=Profile%20views&color=0e75b6&style=flat" alt="kalstaaa" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJS, NextJS and NestJS**
 
 - 💬 Ask me about **Frontend and Design**
 

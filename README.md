@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gafankall@gmail.com**
 
-- ⚡ Fun fact **Im Chill Guy**
+- ⚡ Fun fact **Im Chill Gu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
